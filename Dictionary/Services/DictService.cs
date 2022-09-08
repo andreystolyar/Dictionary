@@ -162,6 +162,7 @@ namespace Dictionary.Services
             {
                 sw.WriteLine($"{entry.Word}:{entry.Translation}");
             }
+            Path = savePath;
         }
         public static void UpdateSettings()
         {

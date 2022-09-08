@@ -28,10 +28,10 @@ namespace Dictionary
 
         string? StatusBarText { get; set; }
 
-        public static bool DataChanged { get; set; } = false;
-        bool IsNewFile { get; set; } = false;
-        bool ShuffleOn { get; set; } = false;
-        bool RepeatOn { get; set; } = false;
+        bool DataChanged { get; set; }
+        bool IsNewFile { get; set; }
+        bool ShuffleOn { get; set; }
+        bool RepeatOn { get; set; }
 
 		void DictInit()
         {
@@ -272,7 +272,7 @@ namespace Dictionary
 
         private void ButtonAdd_Click(object sender, RoutedEventArgs e)
         {
-            new AddWindow().ShowDialog();
+            DataChanged = new AddWindow().ShowDialog() ?? false;
 
             if(DataChanged)
             {

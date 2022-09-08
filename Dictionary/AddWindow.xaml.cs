@@ -51,7 +51,7 @@ namespace Dictionary
                     Word = WordBox.Text,
                     Translation = TranslationBox.Text
                 });
-                MainWindow.DataChanged = true;
+                DialogResult = true;
             }
             Close();
         }
