@@ -62,14 +62,13 @@ namespace Dictionary.Services
             {
 				Random r = new();
 				int j, i = _learningList.Count;
-                Entry tmp;
                 while (i > 1)
                 {
                     i--;
                     j = r.Next(i);
-                    tmp = _learningList[i];
-                    _learningList[i] = _learningList[j];
-                    _learningList[j] = tmp;
+
+                    (_learningList[i], _learningList[j]) =
+						(_learningList[j], _learningList[i]);
                 }
             }
         }
@@ -162,6 +161,7 @@ namespace Dictionary.Services
             {
                 sw.WriteLine($"{entry.Word}:{entry.Translation}");
             }
+            Path = savePath;
         }
         public static void UpdateSettings()
         {
