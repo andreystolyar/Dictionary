@@ -1,0 +1,433 @@
+377
+cease:прекращать
+halt:остановка, привал
+agitated:взволнованный, возбуждённый
+glare:свирепый взгляд
+jolt:толчок, трясти
+abruptly:резко, внезапно
+knack:умение, ловкость
+candidly:честно, чистосердечно
+quirks:поведенческие странности
+corroborate:подтверждать, подкреплять
+sheer:полное, абсолютное
+queasiness:тошнота
+leisurely:неторопливо
+chore:рутинная работа по дому
+scope:сфера деятельности
+rigor:строгость
+temple:висок
+feigned:притворный
+bafflement:недоумение, замешательство
+shortchange:обсчитывать, обманывать
+quail:перепел
+shrub:куст
+undeterred:неустрашимый
+affable:приветливый
+ballyhoo:шумиха, суета
+taper off:сходить на нет
+succumb:поддаваться
+eerie:жуткий, мрачный
+whorl:завиток, завихрение
+ruffle:раздражать, ерошить
+mutter:бормотать
+overt:явный, открытый
+insidious:коварный
+tumble:падать
+dumbfounded:ошарашенный
+worth his salt:уважающий себя
+nag:пилить, надоедать, изводить
+unwittingly:невольно
+leisure:досуг
+rink:каток (ледовый)
+viable:жизнеспособный
+resemble:походить
+squall:шквал, вопль
+shudder:дрожь
+tarmac:асфальт, взлётно-посадочная полоса
+ponderous:тяжеловесный, неуклюжий
+fortitude:сила духа, стойкость
+shack:лачуга
+squint:щуриться
+holster:кобура
+stroll:прогулка
+pupils:зрачки
+consécutive:последовательный
+crammed:набитый битком
+vice:порок
+offal:потроха
+swill:помои, пойло
+demeanor:манера поведения
+recapitulate:повторять, резюмировать
+interplay:взаимодействие
+take a poke (at):подраться
+of no use:бесполезно
+clobber:бить
+confounded:сбитый с толку
+surge:всплеск, волна
+animosity:вражда, злоба
+appease:успокаивать
+hatch:люк
+emaciated (эмЭйшиЭйтед):истощённый
+cot:койка, раскладушка
+starched:накрахмаленный
+lice (plural of "louse"):вши
+rancid:протухший
+suffocate:задыхаться
+accusingly:обвиняюще
+sulk:дуться, обижаться
+morose:угрюмый, мрачный
+sparingly:бережно, экономно, скудно
+cling:цепляться
+disrupt:прерывать
+rodent (рОдент):грызун
+engrossed:поглощённый
+paraphernalia (парафенЭлия):атрибутика
+fireworks display:фейерверк(-шоу)
+recoup (рекЮп):компенсировать, окупить
+mosque:мечеть
+scarecrow:чучело
+flip (one's) lid:свихнуться
+conveive of:представить себе
+a sight to behold:стоит видеть
+tantalizing:мучающий
+perplexity:недоумение
+pull someone's leg:морочить голову
+outlandish:дикованный, нелепый
+darndest:наиболее пугающий
+wretchedness:несчастность
+sinus(cайнес):пазуха
+oppressive:угнетающе
+tenant:арендатор, жилец
+chiseled:высеченый
+trail off:умолкать, затихать
+casting:литьё
+intact:неповреждённый
+downer:зануда
+blight:болезнь, вредное влияние
+destitute:нуждающийся, нищий
+extortion:вымогательство
+bragging rights:право победителя насмехаться над проигравшим
+limerick:шуточное стихотворение
+gall:желчь, наглость
+city break:экскурсия по городу
+accomodation:жильё
+B & B:bed and breakfast
+appraising:оценка
+transtression:нарушение
+bouncer:вышибала
+indiscretion:неосторожность, нескромность
+blemish:недостаток
+collarbone:ключица
+pat-down:осмотр, обыск
+deadbeat:бездельник
+wiry:жилистый
+propped up:подпёрто
+panhandle:попрошайничать
+weathered:обветренный, высеченый
+steer:управлять
+blatant:вопиющий (bad behavior)
+premises:помещения
+brusque:грубый, резкий
+spindly (спИндли):длинный и тонкий
+unobtrusive:скромный, незаметный
+mirth:веселье, смех
+waldo:робот-манипулятор
+bugbear:пугало, источник страха
+minutiae (мэньЮша):мелочи
+dough:тесто
+incantation:заклинание
+custody:хранение, опека
+sift:просеивать, анализировать
+peruse:внимательно читать
+gossamer:осенняя паутинка
+tress:прядь, локон
+bargain (бАгэн):(выгодная) сделка
+nitty-gritty:мелкие потробности
+circumvent:обойти, перехитрить
+purveyor:поставщик
+quill:перо для письма
+congeal:застывать, замёрзнуть
+sludge:грязь, ил
+moldy:заплесневелый
+congee (кАнджи):рисовый отвар (китайская кухня)
+tripe:коровий желудок
+auspicious:благоприятный
+jury rigging:импровизированный ремонт
+obsolete:устаревший
+scrutinize:тщательно исследовать
+innards:внутренности
+scoff:насмешка
+rummage (рОмэдж):рыться, копаться
+vaguely:неясно
+maróoned:брошенный
+woe:горе
+drivel:чушь
+pertinent:имеющий отношение
+panache (пэнАш):щегольство, размах
+linchpin:незаменимый человек, опора
+gauche (гош):неуклюже, бестактно
+sightseeing:осмотр достопримечательностей
+heyday:расцвет, лучшая пора
+moat:ров
+peephole:глазок
+chic (щик):шик
+Bruges (Брющ):Брюгге
+grouse:тетерев
+impasse (импáс):тупик
+avail:польза, выгода
+at odds:в разногласиях
+stupendous:изумительный
+unfáthomable:непостижимый
+vehemently (вИэмэнтли):категорически, яростно, страстно, решительно
+arbitrary:случайно, произвольно
+exonerate:оправдывать
+resort:курорт
+inroad:набег, вторжение
+adage:пословица
+proverb:пословица
+coup (ку):переворот
+bona fide:добросовестный
+armchair general:кабинетный вояка
+escrow:эскроу-счёт
+prescient (прЭсиент):дальновидный, пророческий
+quatrain:четверостишье
+muster:собирать
+kindred:родня
+infused:настоянный
+jive:слэнг чёрных джазменов
+sulfur:сера
+deprecating:осуждающий
+mortified:подавлен, в ужасе
+up-and-comer:подающий надежды
+galore:обилие (употребляется после существительных)
+assuage (асуЭйдж):успокаивать (чувство)
+forecast:прогноз
+engaged:занято
+landline number:городской номер телефона
+beseech:умолять
+pucker:морщить
+timid:робкий, застенчивый
+soothe:успокаивать
+lull (лал):затишье, перерыв
+solemn (сáлэм):важно, торжественно
+judíciously:разумно, рассудительно
+dull:притуплять
+flabbergast:поражать, изумлять
+break a leg:ни пуха ни пера
+bite the bullet:стиснуть зубы, собраться с духом
+break the ice:разрядить обстановку между людьми
+cost an arm and a leg:стоит как крыло от самолёта
+cut corners:пойти по лёгкому пути
+cut somebody some slack:дать послабление
+don't give up your day job:ты не так уж хорош в этом
+easy does it:тише едешь - дальше будешь
+every cloud has a silver lining:нет худа без добра
+silver lining:луч надежды
+made redundant:уволен, сокращён
+get (something) out of (one's) system:избавиться от желания или эмоции, позволив себе выразить их
+to get your act together:взять себя в руки
+to give someone the benefit of the doubt:поверить не смотря на то что сомневаешься в честности
+to give someone the cold shoulder:игнорировать кого-то
+to go back to the drawing board:начать делать новый план потому что старый провалился
+hang in there:не сдавайся
+to hit the nail on the head:попасть в точку
+to hit the sack:пойти спать
+ignorance is bliss:меньше знаешь - крепче спишь
+in a nutshell:в двух словах
+it takes one to know one:рыбак рыбака видит издалека
+to jump on the bandwagon:приобщиться к тренду
+ferocious:свирепый, жестокий
+fumble:возиться, неумело обращаться
+morsel:кусочек (еды)
+offénce:преступление
+fine:штраф
+court:суд
+score:20
+fortnight:две недели
+ballot:бюллетень
+constituency (констИчуэнси):избирательный округ
+ludicrous (лЮдекрэс):смехотворно
+poignant (пОйньент):острый, пронзительный
+tackle:браться за проблему
+levelheaded:уравновешенный
+heartily:от души
+dusk:сумерки
+quizzical:вопросительный, недоумённый
+retort:парировал, возрасиз
+vacúity:отсутствие мыслей, пустоголовость
+beat (one's) gums:болтать попусту
+greenhous effect:парниковый эффект
+carbon dioxide:углекислый газ
+rummy nose:насморк
+hay fever:аллергия на пыльцу
+seize the day:лови момент
+dismay:тревога, испуг
+commonplace:что-то обычное, банальное
+pecker:член
+imminent:надвигающийся, неизбежный
+furtive:скрытный, незаметный, вороватый
+beak:клюв
+bluff:обрыв, утёс
+adobe:обитель
+steep:крутой, отвесный
+perilous (пЭрэлэс):опасный, рискованный
+cardinal numbers:количественные числительные
+decimal:десятичная дробь
+quarter:четверть
+nought:ноль, ничто
+jovial (джОвиэл):весёлый, общительный
+chipper:живой, бодрый
+callous:чёрствый, бездушный
+emphathize (with):сопереживать
+jibe:насмешка
+inadmissible:неприемлемо, недопустимо
+undaunted:неустрашимый
+cesspool:выгребная яма, сточный колодец
+stirred:перемешанный
+fraternize:брататься
+sliver:щепка
+frenzy:безумие, бешенство
+pry:подглядывать, совать нос
+connivance (кэнáйвэнс):попустительство
+accomplice:сообщник
+inculcate:внушать, прививать
+instill:внушать, прививать
+fink:стукач
+har har:(fake) sarcastic laughter
+Gee, thanks:sarcastic thanks (after something rude or insulting)
+bewildered:сбитый с толку
+nonplussed:сбитый с толку
+propensity:склонность
+deprecation:осуждение, неодобрение
+reeds:камыши
+clump:комок
+hurl:метать, швырять
+recoil:отпрыгивать
+coarse:грубо
+unruffled:невозмутимый
+prowl:рыскать
+inquisitive:любознательный
+apropos (апрэпóу):кстати, по поводу, своевременно
+far-fetched:надуманный
+guff:пустая болтовня
+éxcerpt:фрагмент, отрывок, выдержка
+fellow man:товарищ
+take chances:рисковать
+wane:слабеть, убывать
+invigorating:бодрящий
+ravine (равИн):овраг, ущелье
+precipitous (пресИпитэс):крутой, отвесный
+dome:купол
+ledge:выступ
+feat:подвиг
+get past:пройти, обойти, обогнать
+bless you:будь здоров
+adroitness:ловкость, находчивость
+brisk:бойкий
+cackle:кудахтать, хихикать
+soggy:сырой, мокрый
+brim:край, поля шляпы
+lukewarm:тёплый (комнатной температуры)
+discernible:различимый
+barrage:заграждение, плотина
+redwoods:секвойи
+pine:сосна
+plainly:прямо
+vigil:бдение
+in cahoots:в сговоре
+bank:пласт
+twig:веточка
+reconnóiter:разведчик
+precipice (прЭсипис):пропасть, обрыв
+vigor:физическая сила и здоровье
+beam:луч, балка
+superimposed:наложенный
+lined up:выстроился
+impunity:безнаказанность
+bundle:связка
+stupendous:изумительный
+blasphemous:кощунственный
+formidable:грозный, внушительный
+admonition:предостережение
+impassive:бесстрастный
+atone (for):искупить
+wind up:оказаться, закончить
+friar:монах
+coax:уговаривать
+vanquish:побеждать, покорять
+affinity:близость
+skirmish:стычка, перепалка
+firmament:небосвод
+stature (стЭчё):рост
+notwithstanding:несмотря на, вопреки
+befriend:дружить, помогать
+prejudice:предубеждение
+ban:запрет
+pungent:острый, сильный (запах)
+fragrant (фрЭйгрант):ароматный
+eyelid:веко
+hairdresser:парикмахер
+occupation:профессия
+drawer:выдвижной ящик стола
+lobe:мочка
+hyphen:дефис
+traffic jam:пробка
+windshield:лобовое стекло
+trepidation:беспокойство
+soft shoulder:обочина
+imposition:навязывание
+blunder:промах, просчёт
+cripple:калека, инвалид
+panting:запыхавшийся
+twirl:вертеться, крутить
+crevice (крЭвис):расщелина
+carry out:выполнить, осуществить
+carry on:продолжить
+carry:нести
+call off:отменить, отозвать
+dictum:изречение
+trot:бежать рысью (на лошади)
+alleviate:облегчить
+implication:смысл, значение
+excrutiating:мучительно, невыносимо
+hurtling:мчаться
+maddening:приводящий в бешенство
+pedigree:родословная, происхождение
+exquisite:изысканный
+foreboding:предчувствие дурного
+in the same vein:в том же духе
+igneous:вулканического происхождения
+apprehension:опасение
+invigorating:бодрящий
+cirrus clouds:перистые облака
+cumulus clouds:кучевые облака
+umbilical:пупочный
+hue:оттенок
+prominent:видный, выдающийся
+concatenate:соединять
+prompt:быстрый, незамедлительный
+cornucopia:рог изобилия
+out of the blue:откуда ни возьмись
+ring a bell:звучит знакомо
+make up your mind:принять решение
+the week before last:позапрошлая неделя
+at once / right away / straight away:прямо сейчас
+cost a fortune:стоит целое состояние
+could do with:мне бы не помешало, я бы не отказался
+guff:пустая болтовня
+incomprehensible:непонятный, непостижимый
+faltering:нерешительный, запинающийся
+placid (плáсэд):спокойный, безмятежный
+brought up:воспитанный
+stammer:заикаться, запинаться
+predilection:склонность, пристрастия
+porch:крыльцо
+gait (гейт):походка
+to toil:тяжело трудиться
+fidget:непоседа, ёрзать
+harness:упряжь, сбруя
+sobriety:трезвость, уравновешенность
+composure:самообладание
+suspended:условный (срок), подвешенный
+basin:таз, бассейн
+implement:инструмент, орудие
