@@ -19,7 +19,7 @@
             <ColumnDefinition Width="0.3*"/>
         </Grid.ColumnDefinitions>
 
-        <!--Кнопки над таблицей-->
+        <!-- Upper buttons -->
 
         <Grid Grid.Row="0" Grid.Column="0" Margin="20">
             <Grid.ColumnDefinitions>
@@ -42,45 +42,45 @@
                     Name="ButtonNew"
                     Height="50"
                     Width="50"
-                    Click="ButtonNew_Click"
-            >
+                    Click="ButtonNew_Click" >
+
                 <Image Source="Assets/Icons/new.png" Margin="10"/>
             </Button>
             <Button Grid.Column="3"
                     Name="ButtonOpen"
                     Height="50"
-                    Width="50" Click="ButtonOpen_Click"
-            >
+                    Width="50" Click="ButtonOpen_Click" >
+
                     <Image Source="Assets/Icons/open.png" Margin="8"/>
             </Button>
             <Button Grid.Column="5"
                     Name="ButtonSave"
                     IsEnabled="False"
                     Height="50"
-                    Width="50" Click="ButtonSave_Click"
-            >
+                    Width="50" Click="ButtonSave_Click" >
+
                     <Image Source="Assets/Icons/save.png" Margin="9"/>
             </Button>
             <Button Grid.Column="7"
                     Name="ButtonAdd"
                     Height="50"
-                    Width="50" Click="ButtonAdd_Click"
-            >
+                    Width="50" Click="ButtonAdd_Click" >
+
                     <Image Source="Assets/Icons/add.png" Margin="7"/>
             </Button>
             <Button Grid.Column="9"
                     Name="ButtonDelete"
                     IsEnabled="False"
                     Height="50"
-                    Width="50" Click="ButtonDelete_Click"
-            >
+                    Width="50" Click="ButtonDelete_Click" >
+
                     <Image Source="Assets/Icons/delete.png" Margin="7"/>
             </Button>
             <Button Grid.Column="11"
                     Name="ButtonSearch"
                     Height="50"
-                    Width="50" Click="ButtonSearch_Click"
-            >
+                    Width="50" Click="ButtonSearch_Click" >
+
                     <Image Source="Assets/Icons/search.png" Margin="6"/>
             </Button>
         </Grid>
@@ -107,9 +107,10 @@
                   ScrollViewer.CanContentScroll="False"
                   HeadersVisibility="Column"
                   CellEditEnding="DictionaryGrid_CellEditEnding"
-                  SelectionChanged="DictionaryGrid_SelectionChanged"
-                  >
-            <!--Цвета для неактивной таблицы-->
+                  SelectionChanged="DictionaryGrid_SelectionChanged" >
+
+            <!-- Inactive table colors -->
+
             <DataGrid.Resources>
                 <SolidColorBrush x:Key="{x:Static SystemColors.InactiveSelectionHighlightBrushKey}" 
                                  Color="{Binding Path=Color,
@@ -126,7 +127,7 @@
             </DataGrid.Columns>
         </DataGrid>
 
-        <!--Кнопки под таблицей-->
+        <!-- Bottom buttons -->
         <Grid Grid.Row="2" Grid.Column="0" Width="auto"
               Margin="0, 10">
             <Grid.ColumnDefinitions>
@@ -146,50 +147,49 @@
                     HorizontalAlignment="Center"
                     Height="50"
                     Width="100"
-                    Click="ButtonSelectAll_Click"
-            >
+                    Click="ButtonSelectAll_Click" >
+
                 <TextBlock Name="SelectAllTextBlock"
                            TextWrapping="Wrap"
                            TextAlignment="Center"
-                           Margin="5"
-                />
+                           Margin="5" />
+
             </Button>
             <Button Grid.Column="3"
                     Name="ButtonUnselectAll"
                     HorizontalAlignment="Center"
                     Height="50"
                     Width="100"
-                    Click="ButtonUnselectAll_Click"
-            >
+                    Click="ButtonUnselectAll_Click" >
+
                 <TextBlock Name="UnselectAllTextBlock"
                            TextWrapping="Wrap"
                            TextAlignment="Center"
-                           Margin="5"
-                />
+                           Margin="5" />
+
             </Button>
             <Button Grid.Column="5"
                     Name ="ButtonSelectLast" 
                     HorizontalAlignment="Center"
                     Height="50"
-                    Width="100" Click="ButtonSelectLast_Click"
-            >
+                    Width="100" Click="ButtonSelectLast_Click" >
+
                 <TextBlock Name="SelectLastTextBlock"
                            TextWrapping="Wrap"
                            TextAlignment="Center"
-                           Margin="5"
-                />
+                           Margin="5" />
+
             </Button>
             <Button Grid.Column="7"
                     Name ="ButtonSelectRandom" 
                     HorizontalAlignment="Center"
                     Height="50"
-                    Width="100" Click="ButtonSelectRandom_Click"
-            >
+                    Width="100" Click="ButtonSelectRandom_Click" >
+
                 <TextBlock Name="SelectRandomTextBlock"
                            TextWrapping="Wrap"
                            TextAlignment="Center"
-                           Margin="5"
-                />
+                           Margin="5" />
             </Button>
         </Grid>
 
@@ -203,11 +203,9 @@
                  IsManipulationEnabled="True"
                  FontSize="15"
                  KeyDown="EntriesNumberTextBox_KeyDown"
-                 LostKeyboardFocus="EntriesNumberTextBox_LostKeyboardFocus" 
-                 />
+                 LostKeyboardFocus="EntriesNumberTextBox_LostKeyboardFocus" />
 
-
-        <!--Кнопки справа от таблицы-->
+        <!-- Right buttons -->
         <StackPanel Grid.Row="1" Grid.Column="1">
             <Button Name="ButtonLearn"
                     IsEnabled="False"
@@ -215,22 +213,22 @@
                     Height="50"
                     Width="100"
                     Margin="10"
-                    Click="ButtonLearn_Click"
-            />
+                    Click="ButtonLearn_Click" />
+
             <Button Name="ButtonShuffle"
                     IsEnabled="False"
                     Height="50"
                     Width="50"
                     Margin="10"
-                    Click="ButtonShuffle_Click"
-            >
+                    Click="ButtonShuffle_Click" >
+
                 <TextBlock Name="ButtonShuffleTextBlock"
                 VerticalAlignment="Center"
                 HorizontalAlignment="Center"
                            TextAlignment="Center"
                            Margin="0, 0, 0, 5"
-                           FontSize="36"
-                />
+                           FontSize="36" />
+
             </Button>
             <Button Name="ButtonRepeat"
                     IsEnabled="False"
@@ -239,16 +237,16 @@
                     Height="50"
                     Width="50"
                     Margin="10"
-                    Click="ButtonRepeat_Click" FontSize="30"
-            />
+                    Click="ButtonRepeat_Click" FontSize="30" />
+
         </StackPanel>
 
         <StatusBar Grid.Row="3" Grid.ColumnSpan="2" Height="auto"
                    VerticalAlignment="Bottom" >
             <StatusBarItem>
                 <TextBlock Name="StatusBarTextBlock"
-                           VerticalAlignment="Center"
-                           />
+                           VerticalAlignment="Center" />
+
             </StatusBarItem>
         </StatusBar>
         <TextBox
@@ -259,7 +257,6 @@
                 Visibility="Hidden"
                 Width="140"
                 LostFocus="SearchBox_LostFocus"
-                KeyDown="SearchBox_KeyDown"
-        />
+                KeyDown="SearchBox_KeyDown" />
     </Grid>
 </Window>

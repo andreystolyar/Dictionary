@@ -143,19 +143,19 @@ namespace Dictionary
 
             DictInit();
 
-            //Связываем таблицу со словарём
+            //Link the grid with the dictionary
             DictionaryGrid.ItemsSource = DictService.GetWords();
 
             EntriesNumberTextBox.Text = DictService.SelectNumber;
 
-            //Задаём заголовок главного окна
+            //Set main window title
             Title = Local.MainWindowTitle;
 
-            //Задаём заголовки столбцов в таблице
+            //Set column headers in the grid
             WordColumn.Header = Local.WordColumnHeader;
             TranslationColumn.Header = Local.TranslationColumnHeader;
 
-            //Задаём имена для кнопок
+            //Set names for buttons
             ButtonLearn.Content = Local.ButtonLearnText;
             ButtonShuffleTextBlock.Text = Local.ButtonShuffleText;
             ButtonRepeat.Content = Local.ButtonRepeatText;
@@ -164,9 +164,9 @@ namespace Dictionary
             SelectLastTextBlock.Text = Local.SelectLastButtonText + DictService.SelectNumber;
             SelectRandomTextBlock.Text = Local.SelectRandomButtonText + DictService.SelectNumber;
 
-            //Задаём подсказки для элементов
+            //Set tooltips
 
-            //Верхние кнопки
+            //Upper buttons' tooltips
             ButtonNew.ToolTip = Local.ButtonNewTooltip;
             ButtonOpen.ToolTip = Local.ButtonOpenTooltip;
             ButtonSave.ToolTip = Local.ButtonSaveTooltip;
@@ -174,7 +174,7 @@ namespace Dictionary
             ButtonDelete.ToolTip = Local.ButtonDeleteTooltip;
             ButtonSearch.ToolTip = Local.ButtonSearchTooltip;
 
-            //Кнопки справа
+            //Right buttons' tooltips
             ButtonLearn.ToolTip = Local.ButtonLearnTooltip;
             ButtonShuffle.ToolTip = Local.ButtonShuffleTooltip;
             ButtonRepeat.ToolTip = Local.ButtonRepeatTooltip;
@@ -182,7 +182,7 @@ namespace Dictionary
             EntriesNumberTextBox.ToolTip = Local.EntriesNumberTextBoxTooltip;
         }
 
-        //Боковые кнопки
+        //Right side buttons
         private void ButtonLearn_Click(object sender, RoutedEventArgs e)
         {
             DictService.FillLearningList
@@ -226,7 +226,7 @@ namespace Dictionary
 			EntriesNumberTextBox.Text = DictService.SelectNumber;
 		}
 
-		//Верхние кнопки
+		//Upper buttons
 		private void ButtonNew_Click(object sender, RoutedEventArgs e)
         {
             ConfirmAction(DictCreate);
@@ -240,7 +240,7 @@ namespace Dictionary
             DictSave();
         }
 
-        //После редактирования значений в ячейках активируем кнопку save:
+        //Activate Save button when the editing ends
         void DictionaryGrid_CellEditEnding
             (object sender, DataGridCellEditEndingEventArgs e)
         {
@@ -248,8 +248,8 @@ namespace Dictionary
             ButtonSave.IsEnabled = true;
         }
 
-        //После выделения активируем кнопки Delete, Learn
-        //Если выделено более двух записей, активируем Shuffle, Repeat
+        //Activate Delete and Learn buttons if at least one entry was selected
+        //Activate Shuffle and Repeat buttons if more than two were selected
         void DictionaryGrid_SelectionChanged
             (object sender, SelectionChangedEventArgs e)
         {
@@ -317,7 +317,7 @@ namespace Dictionary
         {
             SearchBox.Visibility = Visibility.Hidden;
         }
-        //Поиск
+        //Search
         string LastFound { get; set; } = string.Empty;
         int LastSearchIndex { get; set; } = 0;
         private void SearchBox_KeyDown(object sender, KeyEventArgs e)
@@ -350,7 +350,7 @@ namespace Dictionary
             }
         }
 
-        //Кнопки под таблицей
+        //Lower buttons
         private void ButtonSelectAll_Click(object sender, RoutedEventArgs e)
         {
             DictionaryGrid.SelectAllCells();
@@ -394,7 +394,7 @@ namespace Dictionary
                 RandomIndices.Add(index);
             }
 
-            //Выделяем строки под индексами
+            //Select rows by index
             DictionaryGrid.UnselectAll();
             for (int i = 0; i < RandomIndices.Count; i++)
             {
@@ -403,7 +403,7 @@ namespace Dictionary
             }
         }
 
-        //Для того, чтобы при изменении размера экрана исчезал searchbox
+        //Hide Searchbox if the window size is changed
         private void Window_SizeChanged(object sender, SizeChangedEventArgs e)
         {
             DictionaryGrid.Focus();
