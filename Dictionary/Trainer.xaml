@@ -32,8 +32,8 @@
                   Margin="0,0,20,20"
                   Checked="WordCheckBox_Checked"
                   Unchecked="WordCheckBox_Unchecked"
-                  IsTabStop="False"
-                  />
+                  IsTabStop="False" />
+
         <Label Name ="TranslationLabel"
                HorizontalContentAlignment="Center"
                VerticalContentAlignment="Center"
@@ -48,8 +48,8 @@
                   Margin="0,0,20,20"
                   Checked="TranslationCheckBox_Checked"
                   Unchecked="TranslationCheckBox_Unchecked"
-                  IsTabStop="False"
-                  />
+                  IsTabStop="False" />
+
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
@@ -65,15 +65,14 @@
                     Grid.Column="1"
                     IsEnabled="False"
                     Click="ButtonPrevious_Click"
-                    IsTabStop="False" Focusable="False"
-                    >
+                    IsTabStop="False" Focusable="False" >
+
                 <TextBlock Name ="ButtonPreviousTextBlock"
                            VerticalAlignment="Center"
                            HorizontalAlignment="Center"
                            TextAlignment="Center"
                            Margin="0,0,0,2"
-                           FontSize="36"
-                />
+                           FontSize="36" />
             </Button>
 
             <Button Name ="ButtonNext"
@@ -89,8 +88,7 @@
                            HorizontalAlignment="Center"
                            TextAlignment="Center"
                            Margin="0,0,0,2"
-                           FontSize="36"
-                />
+                           FontSize="36" />
             </Button>
         </Grid>
     </Grid>

@@ -57,7 +57,7 @@ namespace Dictionary.Services
                 _learningList.Add((Entry)item);
             }
 
-            //Алгоритм рандомизации Саттоло
+            //Sattolo's shuffle algorithm
             if (shuffle)
             {
 				Random r = new();

@@ -9,7 +9,6 @@ namespace Dictionary.Services
 		public Local GetLocal { get; }
 		private LocalService()
 		{
-			// Локализация. Чтобы вкл. русский: "ru-RU"
 			GetLocal = CultureInfo.CurrentUICulture.Name == "ru-RU" ?
 						   new Ru() : new En();
 		}
